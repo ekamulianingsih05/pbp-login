@@ -1,0 +1,7 @@
+terdapat file database yg saya buat, silahkan lakukan import ke database kalian
+
+ingat untuk menginstal WEB SERVER
+1. XAMPP atau
+2. LARAGON
+
+sisanya silahkan perhatikan Komentar yang ada pada syntak
